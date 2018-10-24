@@ -2,7 +2,9 @@
 title: "AssessmentPart1"
 author: "Hannah Gumble"
 date: "24/10/2018"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
